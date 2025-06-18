@@ -1,10 +1,6 @@
-#resultcircle{
+#resultcircle {
   height: 250px;
   width: 250px;
   border-radius: 50%;
-  background-color: rgb(245, 168, 232);
+  background-image: linear-gradient(to bottom, rgb(243, 114, 191), rgb(183, 20, 129));
 }
-
-
-
-
